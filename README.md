@@ -11,7 +11,7 @@ A simple web-based todo list application built with Flask and SQLAlchemy, using 
 
 ## Prerequisites
 
-- **Python 3.x**
+- **Python 3**
 - **Flask**
 - **Flask-SQLAlchemy**
 - **MySQL database**
@@ -20,8 +20,8 @@ A simple web-based todo list application built with Flask and SQLAlchemy, using 
 ## Installation
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/flask-todo-app.git
-cd flask-todo-app
+git clone https://github.com/ap0309/Todo_App_using-Flask-API.git
+cd Todo_App_using-Flask-API
 
 text
 
